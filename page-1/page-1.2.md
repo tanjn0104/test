@@ -4,9 +4,7 @@ description: >-
   incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud exercitation ullamco laboris nisi ut a
 ---
-
 hidden: true
-
 ---
 
 # Page 1.2
